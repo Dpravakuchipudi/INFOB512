@@ -1,4 +1,3 @@
-
 ![Logo](https://news.luddy.indiana.edu/images/news/2021/luddygenericsocialwide1.jpg)
 
 
@@ -12,7 +11,7 @@ Measuring healthcare quality has become a pressing issue that has attracted the 
 ## Demo
 
 Here is our Website demo link 
-https://youtu.be/nH33UH7sJcM
+https://youtu.be/ogqsvKogpyU
 
 ## Project  Members
 
@@ -194,6 +193,7 @@ sns.pairplot(quality,hue= 'Re-Admission Rate')
 
 
 We further developed a Machine learning model and found the analysis that A negative correlation between patient experience scores and readmission rates means that hospitals with higher patient experience scores tend to have lower readmission rates, and vice versa. In other words, there is an inverse relationship between these two variables - as one variable increases, the other tends to decrease."
+
 
 
 
